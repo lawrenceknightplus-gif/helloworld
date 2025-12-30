@@ -1,0 +1,23 @@
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+
+    background-color: gray;
+    width: 400px;
+    border: double 5px;
+    padding: 10px;
+
+    text-align: center;
+    font-size: 1.5rem;
+    color: white;
+    font-style: oblique;
+
+
+    box-shadow: 0 0 10px lightgray;
+}
+
+body{
+    background-color: rgb(69, 67, 67);
+}
